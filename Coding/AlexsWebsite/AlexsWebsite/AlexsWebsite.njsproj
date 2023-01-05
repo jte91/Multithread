@@ -60,12 +60,29 @@
     <Content Include="public\layout\styles\framework.css" />
     <Content Include="public\layout\styles\index.html" />
     <Content Include="public\layout\styles\layout.css" />
-    <Content Include="public\pages\basic-grid.html" />
+    <Content Include="public\pages\1Time.html">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="public\pages\AboutPage.html">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="public\pages\FitnessEquipment.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="public\pages\full-width.html" />
     <Content Include="public\pages\gallery.html" />
     <Content Include="public\pages\index.html" />
+    <Content Include="public\pages\MensClothing.html">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="public\pages\Page1.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="public\pages\sidebar-left.html" />
     <Content Include="public\pages\sidebar-right.html" />
+    <Content Include="public\pages\WomensApparel.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
